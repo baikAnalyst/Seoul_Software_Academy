@@ -1,5 +1,5 @@
 Practical working level Fintech data analytics Course by FinInsight Company <br>
-https://fins.ai/ <br><br>
+https://fins.ai/ <br>
 
 ![image](https://github.com/baikAnalyst/Seoul_Software_Academy/assets/144884963/85616578-a599-4067-b97c-8517ebce2d49)
 
