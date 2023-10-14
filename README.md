@@ -3,7 +3,7 @@ https://fins.ai/ <br>
 
 ![image](https://github.com/baikAnalyst/Seoul_Software_Academy/assets/144884963/85616578-a599-4067-b97c-8517ebce2d49)
 
-The Best Course EVER 👍
+The Best Course EVER 👍<br><br>
 
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
