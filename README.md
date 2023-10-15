@@ -1,4 +1,4 @@
-# [Practical working level] Fintech data analytics Course by FinInsight Company <br>
+# [Practical working level] Fintech data analytics Course by FinInsight <br>
 ### https://fins.ai/ <br>
 ### All rights reserved by FinInsight Co., Ltd.<br>
 
